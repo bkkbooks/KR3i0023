@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR3i0023/v1
+canonical_location: https://kanripo.org/bkk/KR3i0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東溪試茶錄
+  date: '2015-08-24 23:17:58.804966'
+  source:
+    repository: kanripo
+    path: KR3i0023
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:60c395078b822e6fc8efafe3d0b4acfb9b6aae45ec811a479e7d56d9a96faa56'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:689f4a55e66f6fe83dccb14ea2520813671560e587116df2e1717651894c5c25'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0023_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 2504
+  label: 東溪試茶録
+  type: section
+  level: 1
+hash: sha256:f02882e0520a24105fcbeaf6171030d350ce6033b1717a549c9133ba0812b7f1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
