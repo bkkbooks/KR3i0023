@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:60c395078b822e6fc8efafe3d0b4acfb9b6aae45ec811a479e7d56d9a96faa56'}
+  - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:99a5a32ffe00e3719efb78479534b13a8088bf8825268b3955a5dee3c04d4546'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:689f4a55e66f6fe83dccb14ea2520813671560e587116df2e1717651894c5c25'}
+  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:f8141ade9aab32272c729344ab16c7f19dbf9c0062c60190f212860aa0d75b3e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,7 +34,4 @@ table_of_contents:
   label: 東溪試茶録
   type: section
   level: 1
-hash: sha256:f02882e0520a24105fcbeaf6171030d350ce6033b1717a549c9133ba0812b7f1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c955f279caa44c8ebfeac3c7536ca4f733d51f9ecf474143c49b0d55523b3625
