@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3i0023/v1
 canonical_location: https://kanripo.org/bkk/KR3i0023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 東溪試茶錄
   date: '2015-08-24 23:17:58.804966'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:99a5a32ffe00e3719efb78479534b13a8088bf8825268b3955a5dee3c04d4546'}
+  - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:7e05f92f664221f735df4fe63cc38f4d35acc94303068b9e7ada796d121d7596'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:f8141ade9aab32272c729344ab16c7f19dbf9c0062c60190f212860aa0d75b3e'}
+  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:f43ba1a2565e902a09978fddd6c37f0b20985d710b9f0292025d51511697ea3e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,4 +34,7 @@ table_of_contents:
   label: 東溪試茶録
   type: section
   level: 1
-hash: sha256:c955f279caa44c8ebfeac3c7536ca4f733d51f9ecf474143c49b0d55523b3625
+hash: sha256:0441ca4df8113ceb96de15161f69f00733282ff8a87d853df2e8d601c550a0f1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
