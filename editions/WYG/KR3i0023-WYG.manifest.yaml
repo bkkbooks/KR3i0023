@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3i0023_000-WYG.yaml, hash: 'sha256:5d8f93dea0579c259e8d4d101bab4ac440dfcf5bd8703881dc8afbbad684c522'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0023_000-WYG.markers.yaml, hash: 'sha256:ac23d12ea6073351fd8e0653729c753f6ab39dcc5b69e707491527bb48ba8af0'}
+  - {seq: 0, role: markers, filename: assets/KR3i0023_000-WYG.markers.yaml, hash: 'sha256:faf6c94e1acfa56eb8ef8d7c0aa509c0c692607da3993cd2ccbba92513c6a9d9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,4 @@ table_of_contents:
   label: 東溪試茶録
   type: section
   level: 1
-hash: sha256:57f2316a0fbb26a82034593b77979fd39a3c84800dfbdd882efa3c06834bc61c
+hash: sha256:94ba3d88726ff83c14d887a6eaf91480aae6a11890ebe23b3b84fa7c949073ed

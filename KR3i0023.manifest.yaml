@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3i0023_000.yaml, hash: 'sha256:7e05f92f664221f735df4fe63cc38f4d35acc94303068b9e7ada796d121d7596'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:f43ba1a2565e902a09978fddd6c37f0b20985d710b9f0292025d51511697ea3e'}
+  - {seq: 0, role: markers, filename: assets/KR3i0023_000.markers.yaml, hash: 'sha256:908c313024ba576bc53113cd7070fc09d880460c914695d1c0d1bbb7cc8f6a07'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,7 +34,7 @@ table_of_contents:
   label: 東溪試茶録
   type: section
   level: 1
-hash: sha256:0441ca4df8113ceb96de15161f69f00733282ff8a87d853df2e8d601c550a0f1
+hash: sha256:7be52d9215224653db1bf2b688359af5b4eef8a956e5f72d4ec6a2ad6641b815
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
